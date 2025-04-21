@@ -1,0 +1,3 @@
+Termo,Definição,Vídeo de Referência  
+"Valores separados por vírgula (CSVs)","Arquivos de texto delimitados onde o delimitador é uma vírgula. Usados para armazenar dados estruturados.","Entendendo Diferentes Tipos de Formatos de Arquivo"  
+"Bancos de dados NoSQL","Bancos de dados projetados para armazenar e gerenciar dados não estruturados e fornecer ferramentas de análise.","Tipos de Dados"  
